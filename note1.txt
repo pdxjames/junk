@@ -4,5 +4,8 @@ I'll now go back to the terminal and pull it down using the cli.
 #
 Yo, and I did a 'git pull' to pull down any changes from the master directory to my own local repo.
 More text here.
+===
+Adding some more text here.
+Almost ready to board the plane for Denver. 
 eof
 
